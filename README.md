@@ -1,6 +1,6 @@
-## About Me
+## In under 500 characters
 
-Hi. I'm a network systems integration human.
+Good to see you here.
 
 ### U-M
 
